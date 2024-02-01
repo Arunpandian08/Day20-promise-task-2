@@ -13,4 +13,4 @@
   + Centers are displayed in `Table`
   + customers Satellites also in `table`
   + Launchers are displayed in single card
-+ you can see result in [netlify.com]()
++ you can see result in [netlify.com](https://isro-api-promise-task-2.netlify.app/)
